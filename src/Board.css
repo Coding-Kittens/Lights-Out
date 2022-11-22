@@ -1,0 +1,30 @@
+.Board {
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #417173;
+  position: absolute;
+  top: 10%;
+  left: 32%;
+}
+
+.Board-NewGame{
+  position: absolute;
+left: 42%;
+top: 3.06%;
+}
+
+.Board button
+{
+  position: absolute;
+  left:52%;
+  top: -10%;
+}
+
+.Board-win{
+  cursor: default;
+  font-size: 4em;
+  position: absolute;
+  left:38%;
+  top: 20%;
+}
